@@ -11,7 +11,7 @@
 	
 	
 	<build>
-		<finalName>d-calculator</finalName>
+		<finalName>dev-calculator</finalName>
 		<plugins>
 
 			<plugin>
