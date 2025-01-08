@@ -14,7 +14,7 @@ public class MyCalc {
 	{
 		return a*b;
 	}
-	int mul (int a, int b)
+	int div (int a, int b)
 	{
 		return a/b;
 	}
